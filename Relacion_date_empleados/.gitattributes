@@ -1,8 +1,8 @@
-Relacion_date_empleados/"Create database.sql" linguist-language=SQL
-Relacion_date_empleados/"create table fechas.sql" linguist-language=SQL
-Relacion_date_empleados/"create table persona.sql" linguist-language=SQL
-Relacion_date_empleados/"Cross join relación.sql" linguist-language=SQL
-Relacion_date_empleados/"Inner Join relación.sql" linguist-language=SQL
-Relacion_date_empleados/"Ins fechas va.sql" linguist-language=SQL
-Relacion_date_empleados/"Ins into persona Values.sql" linguist-language=SQL
-Relacion_date_empleados/"Relacion_date_empleados.sql" linguist-language=SQL
+Relacion_date_empleados/Create\ database.sql linguist-language=SQL
+Relacion_date_empleados/create\ table\ fechas.sql linguist-language=SQL
+Relacion_date_empleados/create\ table\ persona.sql linguist-language=SQL
+Relacion_date_empleados/Cross\ join\ relación.sql linguist-language=SQL
+Relacion_date_empleados/Inner\ Join\ relación.sql linguist-language=SQL
+Relacion_date_empleados/Ins\ fechas\ va.sql linguist-language=SQL
+Relacion_date_empleados/Ins\ into\ persona\ Values.sql linguist-language=SQL
+Relacion_date_empleados/Relacion_date_empleados.sql linguist-language=SQL
