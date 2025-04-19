@@ -1,0 +1,1 @@
+create table fechas (fecha_calendario date)
