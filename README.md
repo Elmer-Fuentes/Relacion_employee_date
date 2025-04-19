@@ -7,4 +7,4 @@ Para este ejemplo se utilizo xlsx con datos empleados y fechas.
 
 ## Objetivo
 Realizar la union de ambas tablas considerando que no existe relaciòn en las mismas
-se aplican uniones directas y tambien la union despus el filtrado
+se aplican uniones directas y tambien la union despues el filtrado
